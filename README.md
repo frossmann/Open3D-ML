@@ -23,6 +23,11 @@ ML frameworks such as data visualization.
 
 
 ## Installation
+### FRANCIS COMMENTS
+> - Requires `pandas < 1.5` to work with the version of `numpy` what `tensorflow==2.5`  
+> - Follow installation steps below and then run: 
+> - `pip install pandas==1.4.*` to downgrade `pandas` to a compatible version. 
+
 
 ### Users
 
